@@ -31,28 +31,39 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Componets)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Summary)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Name)
-            </td>
-            <td>
-                <img src="/images/@Html.DisplayFor(modelItem => item.ImageLink)" width="50" height="50" />
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Price)
-            </td>
-            <td>
-                <a asp-action="Add" asp-route-id="@item.GamingPCId">Add</a> |
-                <a asp-action="Details" asp-route-id="@item.GamingPCId">Details</a> <a asp-action="Delete" asp-route-id="@item.GamingPCId">Delete</a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Componets)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Summary)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    <img src="/images/@Html.DisplayFor(modelItem => item.ImageLink)" width="50" height="50" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    <a asp-action="Add" asp-route-id="@item.GamingPCId">Add</a> |
+                    <a asp-action="Details" asp-route-id="@item.GamingPCId">Details</a> <a asp-action="Delete" asp-route-id="@item.GamingPCId">Delete</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
+
+@foreach (var item in Model)
+{
+    <div class="gallery">
+        <a target="_blank" asp-action="Details" asp-route-id="@item.GamingPCId">
+            <img src="/images/@Html.DisplayFor(modelItem => item.ImageLink)" alt="Gaming Pc" width="600" height="400">
+        </a>
+        <div class="desc">@Html.DisplayFor(modelItem => item.Name)</div>
+    </div>
+}
