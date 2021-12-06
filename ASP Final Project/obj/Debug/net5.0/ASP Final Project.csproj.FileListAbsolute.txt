@@ -625,3 +625,7 @@ C:\Users\timma\source\repos\ASP-Project-With-Security\ASP Final Project\obj\Debu
 C:\Users\timma\source\repos\ASP-Project-With-Security\ASP Final Project\obj\Debug\net5.0\ref\ASP Final Project.dll
 C:\Users\timma\source\repos\ASP-Project-With-Security\ASP Final Project\obj\Debug\net5.0\ASP Final Project.pdb
 C:\Users\timma\source\repos\ASP-Project-With-Security\ASP Final Project\obj\Debug\net5.0\ASP Final Project.genruntimeconfig.cache
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
