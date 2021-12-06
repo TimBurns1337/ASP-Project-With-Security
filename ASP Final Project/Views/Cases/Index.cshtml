@@ -1,0 +1,42 @@
+﻿@model IEnumerable<ASP_Final_Project.Models.Case>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<h1>Cases</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Image
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CaseName)
+            </td>
+            <td>
+                $@Html.DisplayFor(modelItem => item.CasePrice)
+            </td>
+            <td>
+                <img width="70" height="70" src="/images/@Html.DisplayFor(modelItem => item.ImageLink)" />
+            </td>
+            <td>
+             
+                <a asp-action="Details" asp-route-id="@item.CaseId">Details</a> 
+                <a asp-action="AddPart" asp-route-id="@item.CaseId">Add</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

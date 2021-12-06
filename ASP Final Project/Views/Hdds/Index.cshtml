@@ -1,0 +1,43 @@
+﻿@model IEnumerable<ASP_Final_Project.Models.Hdd>
+
+@{
+    ViewData["Title"] = "Hdds";
+}
+
+<h1>HDD/SDD</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                price
+            </th>
+            <th>
+                Image
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.HddName)
+            </td>
+            <td>
+                $@Html.DisplayFor(modelItem => item.HddPrice)
+            </td>
+            <td>
+                <img width="70" height="70" src="/images/@Html.DisplayFor(modelItem => item.ImageLink)" />
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.HddId">Details</a> |
+                <a asp-action="AddPart" asp-route-id="@item.HddId">Add</a> 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

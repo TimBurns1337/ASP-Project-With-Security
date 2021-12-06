@@ -1,0 +1,43 @@
+﻿@model IEnumerable<ASP_Final_Project.Models.Power>
+
+@{
+    ViewData["Title"] = "Powers";
+}
+
+<h1>Power Supply List</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Image
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PowerName)
+            </td>
+            <td>
+                $@Html.DisplayFor(modelItem => item.PowerPrice)
+            </td>
+            <td>
+                <img width="70"  height="70" src="/images/@Html.DisplayFor(modelItem => item.ImageLink)" />
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.PowerId">Details</a> |
+                <a asp-action="AddPart" asp-route-id="@item.PowerId">Add</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

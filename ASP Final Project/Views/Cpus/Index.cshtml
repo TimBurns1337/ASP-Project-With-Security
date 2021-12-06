@@ -1,0 +1,43 @@
+﻿@model IEnumerable<ASP_Final_Project.Models.Cpu>
+
+@{
+    ViewData["Title"] = "Cpus";
+}
+
+<h1>Cpu</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Cpu Name
+            </th>
+            <th>
+                Cpu Price
+            </th>
+            <th>
+                Image
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CpuName)
+            </td>
+            <td>
+                $@Html.DisplayFor(modelItem => item.CpuPrice)
+            </td>
+            <td>
+                <img src="/images/@Html.DisplayFor(modelItem => item.ImageLink)" width="50" height="50"/>
+            </td>
+            <td>
+                <a asp-action="Add" asp-route-id="@item.CpuId">Add</a> |
+                <a asp-action="Details" asp-route-id="@item.CpuId">Details</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

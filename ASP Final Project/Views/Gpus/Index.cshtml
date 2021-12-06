@@ -1,0 +1,47 @@
+﻿@model IEnumerable<ASP_Final_Project.Models.Gpu>
+
+@{
+    ViewData["Title"] = "Gpus";
+}
+
+<h1>Gpu</h1>
+
+@*<p>
+    <a asp-action="Create">Create New</a>
+</p>*@
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Gpu Name
+            </th>
+            <th>
+                Gpu Price
+            </th>
+            <th>
+                Image
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.GpuName)
+            </td>
+            <td>
+                $@Html.DisplayFor(modelItem => item.GpuPrice)
+            </td>
+            <td>
+                <img src="/images/@Html.DisplayFor(modelItem => item.ImageLink)" width="50" height="50" />
+                @*@Html.DisplayFor(modelItem => item.ImageLink)*@
+            </td>
+            <td>
+                <a asp-action="Add" asp-route-id="@item.GpuId">Add</a> |
+                <a asp-action="Details" asp-route-id="@item.GpuId">Details</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,58 @@
+﻿@model IEnumerable<ASP_Final_Project.Models.GamingPC>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Components
+            </th>
+            <th>
+                Summary
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Link
+            </th>
+            <th>
+                Price
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Componets)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Summary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                <img src="/images/@Html.DisplayFor(modelItem => item.ImageLink)" width="50" height="50" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                <a asp-action="Add" asp-route-id="@item.GamingPCId">Add</a> |
+                <a asp-action="Details" asp-route-id="@item.GamingPCId">Details</a> <a asp-action="Delete" asp-route-id="@item.GamingPCId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
