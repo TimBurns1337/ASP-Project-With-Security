@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ASP.Net_project.Data
+namespace ASP_Final_Project.Data
 {
     public class DbInitializer
     {

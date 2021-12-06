@@ -207,3 +207,212 @@ C:\Users\timma\source\repos\ASP Final Project\obj\Debug\net5.0\Razor\Views\Rams\
 C:\Users\timma\source\repos\ASP Final Project\obj\Debug\net5.0\Razor\Views\Rams\Details.cshtml.g.cs
 C:\Users\timma\source\repos\ASP Final Project\obj\Debug\net5.0\Razor\Views\Rams\Edit.cshtml.g.cs
 C:\Users\timma\source\repos\ASP Final Project\obj\Debug\net5.0\Razor\Views\Rams\Index.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\appsettings.Development.json
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\appsettings.json
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\ASP Final Project.StaticWebAssets.xml
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\ASP Final Project.exe
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\ASP Final Project.deps.json
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\ASP Final Project.runtimeconfig.json
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\ASP Final Project.runtimeconfig.dev.json
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\ASP Final Project.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\ref\ASP Final Project.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\ASP Final Project.pdb
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\ASP Final Project.Views.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\ASP Final Project.Views.pdb
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Humanizer.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\ASP Final Project.csproj.AssemblyReference.cache
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\ASP Final Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\ASP Final Project.AssemblyInfoInputs.cache
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\ASP Final Project.AssemblyInfo.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\ASP Final Project.csproj.CoreCompileInputs.cache
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\ASP Final Project.MvcApplicationPartsAssemblyInfo.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\ASP Final Project.MvcApplicationPartsAssemblyInfo.cache
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\ASP Final Project.RazorAssemblyInfo.cache
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\ASP Final Project.RazorAssemblyInfo.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\staticwebassets\ASP Final Project.StaticWebAssets.Manifest.cache
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\staticwebassets\ASP Final Project.StaticWebAssets.xml
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\scopedcss\bundle\ASP Final Project.styles.css
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\ASP Final Project.TagHelpers.input.cache
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\ASP Final Project.TagHelpers.output.cache
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\ASP Final Project.RazorCoreGenerate.cache
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Cases\Create.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Cases\Delete.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Cases\Details.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Cases\Edit.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Cases\Index.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Coolings\Create.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Coolings\Delete.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Coolings\Details.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Coolings\Edit.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Coolings\Index.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Cpus\Create.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Cpus\Delete.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Cpus\Details.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Cpus\Edit.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Cpus\Index.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\CustomPCs\Create.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\CustomPCs\Delete.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\CustomPCs\Details.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\CustomPCs\Edit.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\CustomPCs\Index.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\GamingPCs\Create.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\GamingPCs\Delete.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\GamingPCs\Details.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\GamingPCs\Edit.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\GamingPCs\Index.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Gpus\Create.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Gpus\Delete.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Gpus\Details.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Gpus\Edit.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Gpus\Index.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Hdds\Create.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Hdds\Delete.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Hdds\Details.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Hdds\Edit.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Hdds\Index.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\MotherBoards\Create.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\MotherBoards\Delete.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\MotherBoards\Details.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\MotherBoards\Edit.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\MotherBoards\Index.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Powers\Create.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Powers\Delete.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Powers\Details.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Powers\Edit.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Powers\Index.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Rams\Create.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Rams\Delete.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Rams\Details.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Rams\Edit.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Rams\Index.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\ASP Final Project.RazorTargetAssemblyInfo.cache
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\ASP Final Project.RazorTargetAssemblyInfo.cs
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\ASP Final Project.Views.pdb
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\ASP Final Project.csproj.CopyComplete
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\ASP Final Project.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\ref\ASP Final Project.dll
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\ASP Final Project.pdb
+D:\ITS\THIRD_SEMESTER\ITE-5331-ASP.NET-MVC\PROJECT\Final_MVC_Project\ASP Final Project\obj\Debug\net5.0\ASP Final Project.genruntimeconfig.cache

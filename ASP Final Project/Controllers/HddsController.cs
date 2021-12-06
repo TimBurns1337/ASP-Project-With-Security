@@ -5,11 +5,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using ASP.Net_project.Data;
 using ASP_Final_Project.Models;
 using ASP_Final_Project.Data;
 
-namespace ASP.Net_project.Controllers
+namespace ASP_Final_Project.Controllers
 {
     public class HddsController : Controller
     {

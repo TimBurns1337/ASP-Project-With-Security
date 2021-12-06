@@ -5,12 +5,11 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using ASP.Net_project.Data;
 
 using ASP_Final_Project.Data;
 using ASP_Final_Project.Models;
 
-namespace ASP.Net_project.Controllers
+namespace ASP_Final_Project.Controllers
 {
     public class CoolingsController : Controller
     {
