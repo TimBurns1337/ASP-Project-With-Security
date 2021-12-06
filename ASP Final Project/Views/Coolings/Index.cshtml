@@ -20,23 +20,33 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.CoolingName)
-            </td>
-            <td>
-                $@Html.DisplayFor(modelItem => item.CoolingPrice)
-            </td>
-            <td>
-                <img width="70" height="70" src="/images/@Html.DisplayFor(modelItem => item.ImageLink)" />
-            </td>
-            <td>
-             
-                <a asp-action="Details" asp-route-id="@item.CoolingId">Details</a> |
-                <a asp-action="AddPart" asp-route-id="@item.CoolingId">Add</a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CoolingName)
+                </td>
+                <td>
+                    $@Html.DisplayFor(modelItem => item.CoolingPrice)
+                </td>
+                <td>
+                    <img width="70" height="70" src="/images/@Html.DisplayFor(modelItem => item.ImageLink)" />
+                </td>
+                <td>
+
+                    <a asp-action="Details" asp-route-id="@item.CoolingId">Details</a> |
+                    <a asp-action="AddPart" asp-route-id="@item.CoolingId">Add</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
+@foreach (var item in Model)
+{
+    <div class="gallery">
+        <a target="_blank" asp-action="Details" asp-route-id="@item.CoolingId">
+            <img src="/images/@Html.DisplayFor(modelItem => item.ImageLink)" alt="Gaming Pc" width="600" height="400">
+        </a>
+        <div class="desc">@Html.DisplayFor(modelItem => item.CoolingName)</div>
+    </div>
+}

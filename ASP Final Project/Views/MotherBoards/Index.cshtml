@@ -7,8 +7,8 @@
 <h1>Mother Boards</h1>
 
 @*<p>
-    <a asp-action="Create">Create New</a>
-</p>*@
+        <a asp-action="Create">Create New</a>
+    </p>*@
 <table class="table">
     <thead>
         <tr>
@@ -16,7 +16,7 @@
                 Mother Board Name @*@Html.DisplayNameFor(model => model.MotherBoardName)*@
             </th>
             <th>
-               Price @*@Html.DisplayNameFor(model => model.MotherBoardPrice)*@
+                Price @*@Html.DisplayNameFor(model => model.MotherBoardPrice)*@
             </th>
             <th>
                 Image @*@Html.DisplayNameFor(model => model.ImageLink)*@
@@ -25,22 +25,32 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.MotherBoardName)
-            </td>
-            <td>
-                $@Html.DisplayFor(modelItem => item.MotherBoardPrice)
-            </td>
-            <td>
-                <img src="/images/@Html.DisplayFor(modelItem => item.ImageLink)" width="50" height="50" />
-            </td>
-            <td>
-                <a asp-action="Add" asp-route-id="@item.MotherBoardId">Add</a> |
-                <a asp-action="Details" asp-route-id="@item.MotherBoardId">Details</a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MotherBoardName)
+                </td>
+                <td>
+                    $@Html.DisplayFor(modelItem => item.MotherBoardPrice)
+                </td>
+                <td>
+                    <img src="/images/@Html.DisplayFor(modelItem => item.ImageLink)" width="50" height="50" />
+                </td>
+                <td>
+                    <a asp-action="Add" asp-route-id="@item.MotherBoardId">Add</a> |
+                    <a asp-action="Details" asp-route-id="@item.MotherBoardId">Details</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
+@foreach (var item in Model)
+{
+    <div class="gallery">
+        <a target="_blank" asp-action="Details" asp-route-id="@item.MotherBoardId">
+            <img src="/images/@Html.DisplayFor(modelItem => item.ImageLink)" alt="Gaming Pc" width="600" height="400">
+        </a>
+        <div class="desc">@Html.DisplayFor(modelItem => item.MotherBoardName)</div>
+    </div>
+}

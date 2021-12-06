@@ -22,22 +22,32 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.PowerName)
-            </td>
-            <td>
-                $@Html.DisplayFor(modelItem => item.PowerPrice)
-            </td>
-            <td>
-                <img width="70"  height="70" src="/images/@Html.DisplayFor(modelItem => item.ImageLink)" />
-            </td>
-            <td>
-                <a asp-action="Details" asp-route-id="@item.PowerId">Details</a> |
-                <a asp-action="AddPart" asp-route-id="@item.PowerId">Add</a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PowerName)
+                </td>
+                <td>
+                    $@Html.DisplayFor(modelItem => item.PowerPrice)
+                </td>
+                <td>
+                    <img width="70" height="70" src="/images/@Html.DisplayFor(modelItem => item.ImageLink)" />
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.PowerId">Details</a> |
+                    <a asp-action="AddPart" asp-route-id="@item.PowerId">Add</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
+@foreach (var item in Model)
+{
+    <div class="gallery">
+        <a target="_blank" asp-action="Details" asp-route-id="@item.PowerId">
+            <img src="/images/@Html.DisplayFor(modelItem => item.ImageLink)" alt="Gaming Pc" width="600" height="400">
+        </a>
+        <div class="desc">@Html.DisplayFor(modelItem => item.PowerName)</div>
+    </div>
+}
