@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\timma\\source\\repos\\ASP-Project-With-Security\\ASP Final Project\\ASP Final Project.csproj": {}
+    "D:\\ITS\\THIRD_SEMESTER\\ITE-5331-ASP.NET-MVC\\PROJECT\\Final_MVC_Project\\ASP Final Project\\ASP Final Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\timma\\source\\repos\\ASP-Project-With-Security\\ASP Final Project\\ASP Final Project.csproj": {
+    "D:\\ITS\\THIRD_SEMESTER\\ITE-5331-ASP.NET-MVC\\PROJECT\\Final_MVC_Project\\ASP Final Project\\ASP Final Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\timma\\source\\repos\\ASP-Project-With-Security\\ASP Final Project\\ASP Final Project.csproj",
+        "projectUniqueName": "D:\\ITS\\THIRD_SEMESTER\\ITE-5331-ASP.NET-MVC\\PROJECT\\Final_MVC_Project\\ASP Final Project\\ASP Final Project.csproj",
         "projectName": "ASP Final Project",
-        "projectPath": "C:\\Users\\timma\\source\\repos\\ASP-Project-With-Security\\ASP Final Project\\ASP Final Project.csproj",
-        "packagesPath": "C:\\Users\\timma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\timma\\source\\repos\\ASP-Project-With-Security\\ASP Final Project\\obj\\",
+        "projectPath": "D:\\ITS\\THIRD_SEMESTER\\ITE-5331-ASP.NET-MVC\\PROJECT\\Final_MVC_Project\\ASP Final Project\\ASP Final Project.csproj",
+        "packagesPath": "C:\\Users\\cezmi\\.nuget\\packages\\",
+        "outputPath": "D:\\ITS\\THIRD_SEMESTER\\ITE-5331-ASP.NET-MVC\\PROJECT\\Final_MVC_Project\\ASP Final Project\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\timma\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\cezmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -87,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
