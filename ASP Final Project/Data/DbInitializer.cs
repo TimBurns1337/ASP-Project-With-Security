@@ -33,6 +33,134 @@ namespace ASP_Final_Project.Data
             Name = "RTX 3090 Build",
             ImageLink = "Rog.jfif",
             Price = 4000},
+            //new ones 
+            new GamingPC{
+            Componets = "ABS Master Gaming PC " +
+                        "CPU: Intel Core i5-11400F Rocket Lake 6-Core 12-Thread 2.6 GHz (4.4GHz Turbo) $800" +
+                        "GPU: Nvidia GeForce RTX 3090 $1500" +
+                        "Motherboard: Asus ROG Maximus XII Extreme $1000" +
+                        "RAM: TEAM XTREEM ARGB 16GB DDR4-3600MHz C14 $500" +
+                        "Hard Drive: Addlink S70 SSD 2TB $150" +
+                        "Power: Corsair AX1600i 1600W $1000" +
+                        "Cooling: Corsair H115i RGB Platinum $200"+
+                        "Case: PC-O11D Razer Mid Tower $250",
+            Summary = "CPU: AMD Ryzen 9 5950X $800 GPU: Nvidia GeForce RTX 3090",
+            Name = "RTX 3090 Build",
+            ImageLink = "Rog.jfif",
+            Price = 4000},
+            new GamingPC{
+            Componets = "High Performance Gaming PC " +
+                        "CPU: AMD Ryzen 9 5950X $800" +
+                        "GPU: Nvidia GeForce RTX 3090 $1500" +
+                        "Motherboard: Asus ROG Maximus XII Extreme $1000" +
+                        "RAM: TEAM XTREEM ARGB 16GB DDR4-3600MHz C14 $500" +
+                        "Hard Drive: Addlink S70 SSD 2TB $150" +
+                        "Power: Corsair AX1600i 1600W $1000" +
+                        "Cooling: Corsair H115i RGB Platinum $200"+
+                        "Case: PC-O11D Razer Mid Tower $250",
+            Summary = "CPU: AMD Ryzen 9 5950X $800 GPU: Nvidia GeForce RTX 3090",
+            Name = "RTX 3090 Build",
+            ImageLink = "Rog.jfif",
+            Price = 4000},
+            new GamingPC{
+            Componets = "High Performance Gaming PC " +
+                        "CPU: AMD Ryzen 9 5950X $800" +
+                        "GPU: Nvidia GeForce RTX 3090 $1500" +
+                        "Motherboard: Asus ROG Maximus XII Extreme $1000" +
+                        "RAM: TEAM XTREEM ARGB 16GB DDR4-3600MHz C14 $500" +
+                        "Hard Drive: Addlink S70 SSD 2TB $150" +
+                        "Power: Corsair AX1600i 1600W $1000" +
+                        "Cooling: Corsair H115i RGB Platinum $200"+
+                        "Case: PC-O11D Razer Mid Tower $250",
+            Summary = "CPU: AMD Ryzen 9 5950X $800 GPU: Nvidia GeForce RTX 3090",
+            Name = "RTX 3090 Build",
+            ImageLink = "Rog.jfif",
+            Price = 4000},
+            new GamingPC{
+            Componets = "High Performance Gaming PC " +
+                        "CPU: AMD Ryzen 9 5950X $800" +
+                        "GPU: Nvidia GeForce RTX 3090 $1500" +
+                        "Motherboard: Asus ROG Maximus XII Extreme $1000" +
+                        "RAM: TEAM XTREEM ARGB 16GB DDR4-3600MHz C14 $500" +
+                        "Hard Drive: Addlink S70 SSD 2TB $150" +
+                        "Power: Corsair AX1600i 1600W $1000" +
+                        "Cooling: Corsair H115i RGB Platinum $200"+
+                        "Case: PC-O11D Razer Mid Tower $250",
+            Summary = "CPU: AMD Ryzen 9 5950X $800 GPU: Nvidia GeForce RTX 3090",
+            Name = "RTX 3090 Build",
+            ImageLink = "Rog.jfif",
+            Price = 4000},
+            new GamingPC{
+            Componets = "High Performance Gaming PC " +
+                        "CPU: AMD Ryzen 9 5950X $800" +
+                        "GPU: Nvidia GeForce RTX 3090 $1500" +
+                        "Motherboard: Asus ROG Maximus XII Extreme $1000" +
+                        "RAM: TEAM XTREEM ARGB 16GB DDR4-3600MHz C14 $500" +
+                        "Hard Drive: Addlink S70 SSD 2TB $150" +
+                        "Power: Corsair AX1600i 1600W $1000" +
+                        "Cooling: Corsair H115i RGB Platinum $200"+
+                        "Case: PC-O11D Razer Mid Tower $250",
+            Summary = "CPU: AMD Ryzen 9 5950X $800 GPU: Nvidia GeForce RTX 3090",
+            Name = "RTX 3090 Build",
+            ImageLink = "Rog.jfif",
+            Price = 4000},
+            new GamingPC{
+            Componets = "High Performance Gaming PC " +
+                        "CPU: AMD Ryzen 9 5950X $800" +
+                        "GPU: Nvidia GeForce RTX 3090 $1500" +
+                        "Motherboard: Asus ROG Maximus XII Extreme $1000" +
+                        "RAM: TEAM XTREEM ARGB 16GB DDR4-3600MHz C14 $500" +
+                        "Hard Drive: Addlink S70 SSD 2TB $150" +
+                        "Power: Corsair AX1600i 1600W $1000" +
+                        "Cooling: Corsair H115i RGB Platinum $200"+
+                        "Case: PC-O11D Razer Mid Tower $250",
+            Summary = "CPU: AMD Ryzen 9 5950X $800 GPU: Nvidia GeForce RTX 3090",
+            Name = "RTX 3090 Build",
+            ImageLink = "Rog.jfif",
+            Price = 4000},
+            new GamingPC{
+            Componets = "High Performance Gaming PC " +
+                        "CPU: AMD Ryzen 9 5950X $800" +
+                        "GPU: Nvidia GeForce RTX 3090 $1500" +
+                        "Motherboard: Asus ROG Maximus XII Extreme $1000" +
+                        "RAM: TEAM XTREEM ARGB 16GB DDR4-3600MHz C14 $500" +
+                        "Hard Drive: Addlink S70 SSD 2TB $150" +
+                        "Power: Corsair AX1600i 1600W $1000" +
+                        "Cooling: Corsair H115i RGB Platinum $200"+
+                        "Case: PC-O11D Razer Mid Tower $250",
+            Summary = "CPU: AMD Ryzen 9 5950X $800 GPU: Nvidia GeForce RTX 3090",
+            Name = "RTX 3090 Build",
+            ImageLink = "Rog.jfif",
+            Price = 4000},
+            new GamingPC{
+            Componets = "High Performance Gaming PC " +
+                        "CPU: AMD Ryzen 9 5950X $800" +
+                        "GPU: Nvidia GeForce RTX 3090 $1500" +
+                        "Motherboard: Asus ROG Maximus XII Extreme $1000" +
+                        "RAM: TEAM XTREEM ARGB 16GB DDR4-3600MHz C14 $500" +
+                        "Hard Drive: Addlink S70 SSD 2TB $150" +
+                        "Power: Corsair AX1600i 1600W $1000" +
+                        "Cooling: Corsair H115i RGB Platinum $200"+
+                        "Case: PC-O11D Razer Mid Tower $250",
+            Summary = "CPU: AMD Ryzen 9 5950X $800 GPU: Nvidia GeForce RTX 3090",
+            Name = "RTX 3090 Build",
+            ImageLink = "Rog.jfif",
+            Price = 4000},
+            new GamingPC{
+            Componets = "High Performance Gaming PC " +
+                        "CPU: AMD Ryzen 9 5950X $800" +
+                        "GPU: Nvidia GeForce RTX 3090 $1500" +
+                        "Motherboard: Asus ROG Maximus XII Extreme $1000" +
+                        "RAM: TEAM XTREEM ARGB 16GB DDR4-3600MHz C14 $500" +
+                        "Hard Drive: Addlink S70 SSD 2TB $150" +
+                        "Power: Corsair AX1600i 1600W $1000" +
+                        "Cooling: Corsair H115i RGB Platinum $200"+
+                        "Case: PC-O11D Razer Mid Tower $250",
+            Summary = "CPU: AMD Ryzen 9 5950X $800 GPU: Nvidia GeForce RTX 3090",
+            Name = "RTX 3090 Build",
+            ImageLink = "Rog.jfif",
+            Price = 4000},
+            //new ones 
             new GamingPC{
             Componets = "3.7 GHz AMD Ryzen 5 4600G processor and 12GB DDR4 RAM deliver superior speed and power to handle high-end games and editing software" +
                         "512GB M.2 NVMe PCIe 3.0 solid state drive quickly loads programs, while offering enough storage space" +
