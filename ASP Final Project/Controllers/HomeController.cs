@@ -1,4 +1,5 @@
 ﻿
+using ASP_Final_Project.Data;
 using ASP_Final_Project.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -14,10 +15,12 @@ namespace ASP.Net_project.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly ApplicationDbContext _context;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, ApplicationDbContext context)
         {
             _logger = logger;
+            _context = context;
         }
 
         [Authorize]
@@ -25,6 +28,14 @@ namespace ASP.Net_project.Controllers
         {
             return View();
         }
+
+        public IActionResult Search(string gpc)
+        {
+            var gpcContext = _context.GamingPCs.Where(s => s.Name == gpc).ToList();
+            return View("SearchResult", gpcContext);
+            //return View();
+        }
+
 
         public IActionResult Privacy()
         {

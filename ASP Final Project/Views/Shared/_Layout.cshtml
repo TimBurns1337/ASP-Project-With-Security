@@ -49,6 +49,10 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Coolings" asp-action="Index">COOLING</a>
                         </li>
                     </ul>
+                    <form asp-controller="home" asp-action="search">
+                        <input type="text" placeholder="Search.." name="search">
+                        <button type="submit">Submit</button>
+                    </form>
                     <partial name="_LoginPartial" />
                 </div>
             </div>
