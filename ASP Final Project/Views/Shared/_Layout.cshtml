@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@model SearchViewModel
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -49,7 +51,7 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Coolings" asp-action="Index">COOLING</a>
                         </li>
                     </ul>
-                    <form asp-controller="home" asp-action="search">
+                    <form asp-controller="home" asp-action="search" method="post">
                         <input type="text" placeholder="Search.." name="search">
                         <button type="submit">Submit</button>
                     </form>

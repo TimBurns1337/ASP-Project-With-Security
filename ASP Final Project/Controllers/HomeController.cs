@@ -29,12 +29,14 @@ namespace ASP.Net_project.Controllers
             return View();
         }
 
+        
         public IActionResult Search(string gpc)
         {
-            var gpcContext = _context.GamingPCs.Where(s => s.Name == gpc).ToList();
+            var gpcContext = _context.GamingPCs.Where(s => s.Name == gpc).ToList();            
             return View("SearchResult", gpcContext);
             //return View();
         }
+        
 
 
         public IActionResult Privacy()
@@ -47,5 +49,32 @@ namespace ASP.Net_project.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        /*
+        [HttpPost]
+        public RedirectToActionResult Search(SearchViewModel vm)
+        {
+           
+                var search = new SearchData(TempData)
+                {
+                    SearchTerm = vm.SearchTerm                   
+                };
+                return RedirectToAction("Search");
+            
+            
+        }
+
+        [HttpGet]
+        public ViewResult Search()
+        {
+            var search = new SearchData(TempData);
+
+                
+                   search.Where = b => b.Title.Contains(vm.SearchTerm);
+                    vm.Header = $"Search results for book title '{vm.SearchTerm}'";
+               
+           
+        }
+        */
     }
 }
